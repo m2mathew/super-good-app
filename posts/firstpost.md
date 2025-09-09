@@ -8,7 +8,7 @@ tags:
   - environment
   - politics
   - sport
-image: /assets/img/drumsticks-floating.jpg
+image: https://www.lego.com/cdn/cs/set/assets/blt96a11f71928f8103/72046_Prod_en-gb.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1
 imageAltText: A city at dusk
 description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
 ---
